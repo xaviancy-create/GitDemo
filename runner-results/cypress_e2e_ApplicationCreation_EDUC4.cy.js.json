@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2024-02-06T11:15:21.660Z",
+  "duration": 148955,
+  "file": "cypress\\e2e\\ApplicationCreation\\EDUC4.cy.js"
+}

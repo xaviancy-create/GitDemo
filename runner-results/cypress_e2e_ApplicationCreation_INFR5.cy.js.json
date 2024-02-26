@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2024-02-06T11:20:25.737Z",
+  "duration": 236187,
+  "file": "cypress\\e2e\\ApplicationCreation\\INFR5.cy.js"
+}

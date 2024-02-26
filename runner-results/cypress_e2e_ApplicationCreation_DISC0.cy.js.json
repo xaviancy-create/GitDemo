@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2024-02-06T11:11:22.466Z",
+  "duration": 232760,
+  "file": "cypress\\e2e\\ApplicationCreation\\DISC0.cy.js"
+}
